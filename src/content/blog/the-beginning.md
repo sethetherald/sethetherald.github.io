@@ -37,6 +37,6 @@ Since I'm still broke at the moment, custom domain or self-hosting is out of the
 
 ![dancing-cow](/images/uploads/polish-cow.gif)
 
-[1]: https://www.sethetherald.github.io
+[1]: https://sethetherald.github.io
 [2]: https://www.hxann.com
 [3]: https://github.com/intagaming/hxann.com/pull/20
