@@ -2,7 +2,7 @@
 title: The beginning of this website
 publication_date: 2024-05-11
 excerpt: 'Website start'
-cover_url: /images/upload/bigbang.jpg
+cover_url: /images/uploads/bigbang.jpg
 ---
 
 ### Introduction
