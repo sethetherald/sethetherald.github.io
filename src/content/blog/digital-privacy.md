@@ -2,7 +2,7 @@
 title: Digital privacy is important
 publication_date: 2024-05-15
 excerpt: 'Digital privacy'
-cover_url: /images/uploads/privacy.jpg
+cover_url: /images/uploads/privacy.webp
 ---
 
 ### What is digital privacy?
@@ -20,7 +20,7 @@ I agree that most people have nothing to hide in particular, and neither do I. B
 ### Different people have different privacy need
 And what I mean by that, is best explained in this privacy-anonymity spectrum, created by [Eric Murphy][1]
 
-![privacy-spectrum](/images/uploads/spectrum.png)
+![privacy-spectrum](/images/uploads/spectrum.webp)
 
 ### Big tech companies and their thirst for your information
 Big tech companies, such as Google and Facebook, can you guess why their products (specifically the search engine and social platform) are free? How do they even make a profit? Well yes, they're paid by other companies and even individuals for advertisement and such, but most of their revenue is from **collecting and processing your information**. And by "processing" I mean they'll use your collected data for targeted advertising and probably even sell your information to other companies.
