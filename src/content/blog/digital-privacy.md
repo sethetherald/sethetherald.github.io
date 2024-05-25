@@ -2,7 +2,7 @@
 title: Digital privacy is important
 publication_date: 2024-05-15
 excerpt: 'Digital privacy'
-cover_url: /images/uploads/privacy.jpg
+cover_url: /images/uploads/privacy.webp
 ---
 
 ### What is digital privacy?
@@ -20,7 +20,7 @@ I agree that most people have nothing to hide in particular, and neither do I. B
 ### Different people have different privacy need
 And what I mean by that, is best explained in this privacy-anonymity spectrum, created by [Eric Murphy][1]
 
-![privacy-spectrum](/images/uploads/spectrum.png)
+![privacy-spectrum](/images/uploads/spectrum.webp)
 
 ### Big tech companies and their thirst for your information
 Big tech companies, such as Google and Facebook, can you guess why their products (specifically the search engine and social platform) are free? How do they even make a profit? Well yes, they're paid by other companies and even individuals for advertisement and such, but most of their revenue is from **collecting and processing your information**. And by "processing" I mean they'll use your collected data for targeted advertising and probably even sell your information to other companies.
@@ -52,7 +52,7 @@ Apple advertises itself as a privacy-focused company, in contrast to other data-
 
 Yet, according to their [transparency report][5] (as of May 15, 2024), they comply with 83% of user's data requests from law enforcement. Does that count as a violation of human rights? I don't know. The fact that Apple complies with law enforcement like that is not a problem for most people but for anyone ranging from "The Activist" to "The Ghost" level of privacy, Apple products might not be for you. 
 
-Also, iOS and macOS, the operating systems for iPhone and Macbook respectively, are freaking proprietary. Which means that even if Apple has a [backdoor][6] within those OSes, we'll have no idea whatsoever. Do you want to give some random strangers the key into your house? I think not.
+Also, iOS and macOS, the operating systems for iPhone and Macbook respectively, are freaking proprietary. This means that even if Apple has a [backdoor][6] within those OSes, we'll have no idea whatsoever. Do you want to give some random strangers the key to your house? I think not.
 
 There are a lot more I want to rant about Apple, but that's it for this post.
 
