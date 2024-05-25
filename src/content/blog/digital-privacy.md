@@ -52,7 +52,7 @@ Apple advertises itself as a privacy-focused company, in contrast to other data-
 
 Yet, according to their [transparency report][5] (as of May 15, 2024), they comply with 83% of user's data requests from law enforcement. Does that count as a violation of human rights? I don't know. The fact that Apple complies with law enforcement like that is not a problem for most people but for anyone ranging from "The Activist" to "The Ghost" level of privacy, Apple products might not be for you. 
 
-Also, iOS and macOS, the operating systems for iPhone and Macbook respectively, are freaking proprietary. Which means that even if Apple has a [backdoor][6] within those OSes, we'll have no idea whatsoever. Do you want to give some random strangers the key into your house? I think not.
+Also, iOS and macOS, the operating systems for iPhone and Macbook respectively, are freaking proprietary. This means that even if Apple has a [backdoor][6] within those OSes, we'll have no idea whatsoever. Do you want to give some random strangers the key to your house? I think not.
 
 There are a lot more I want to rant about Apple, but that's it for this post.
 
